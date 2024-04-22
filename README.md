@@ -1,4 +1,4 @@
-#Flappy Bird Game
+# Flappy Bird Game
 
 The old Flappy Bird Game made using Python and pygame.
 
