@@ -17,3 +17,4 @@ pip install -r requirements.txt
 ```bash
 python app.py
 ```
+### Assets taken from: [GitHub Repo](https://github.com/samuelcust/flappy-bird-assets)
